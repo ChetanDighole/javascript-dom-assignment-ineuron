@@ -23,9 +23,7 @@ accordinContainer.appendChild(sectionEl);
 
 //4. (OnePlus) Change the contact number
 //without icon
-document.querySelector(".customer-support > a").innerText = "+91 6366256689";
-//with icon
-document.querySelector(".customer-support > a > i").nextSibling.textContent = "+91 6366256689";
+document.querySelector(".customer-support > a").innerText = "9892354399";
 
 //5.(Samsung) Target the main div of card and change the Button text to Check out
 document.querySelector(
